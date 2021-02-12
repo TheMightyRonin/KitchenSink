@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kitchen_sink:block/scale"
+    },
+    "facing=east": {
+      "model": "kitchen_sink:block/scale",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "kitchen_sink:block/scale",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "kitchen_sink:block/scale",
+      "y": 270
+    }
+  }
+}

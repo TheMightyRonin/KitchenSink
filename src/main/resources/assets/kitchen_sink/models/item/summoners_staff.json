@@ -1,0 +1,7 @@
+{
+  "parent": "kitchen_sink:custom/summonerwand",
+  "textures": {
+    "0": "kitchen_sink:blocks/summonerwand",
+    "particle": "kitchen_sink:items/skillstone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/nethercoalore",
+    "up": "kitchen_sink:blocks/nethercoalore",
+    "north": "kitchen_sink:blocks/nethercoalore",
+    "east": "kitchen_sink:blocks/nethercoalore",
+    "south": "kitchen_sink:blocks/nethercoalore",
+    "west": "kitchen_sink:blocks/nethercoalore",
+    "particle": "kitchen_sink:blocks/nethercoalore"
+  }
+}

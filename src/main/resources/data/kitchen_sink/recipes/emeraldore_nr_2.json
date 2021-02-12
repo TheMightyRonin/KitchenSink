@@ -1,0 +1,12 @@
+{
+  "group": "kitchen_sink",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 199,
+  "ingredient": {
+    "item": "kitchen_sink:nether_emerald_ore"
+  },
+  "result": {
+    "item": "minecraft:emerald"
+  }
+}

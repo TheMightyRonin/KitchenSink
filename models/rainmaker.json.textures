@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "copperblock",
+        "1": "glass",
+        "2": "weathercore"
+      },
+      "name": "default"
+    }
+  }
+}

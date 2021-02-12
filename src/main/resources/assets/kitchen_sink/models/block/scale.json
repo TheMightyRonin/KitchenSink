@@ -1,0 +1,8 @@
+{
+  "parent": "kitchen_sink:custom/scale",
+  "textures": {
+    "all": "kitchen_sink:blocks/scale",
+    "particle": "kitchen_sink:blocks/scale",
+    "0": "kitchen_sink:blocks/scale"
+  }
+}

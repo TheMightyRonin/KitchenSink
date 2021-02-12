@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/netherironore",
+    "up": "kitchen_sink:blocks/netherironore",
+    "north": "kitchen_sink:blocks/netherironore",
+    "east": "kitchen_sink:blocks/netherironore",
+    "south": "kitchen_sink:blocks/netherironore",
+    "west": "kitchen_sink:blocks/netherironore",
+    "particle": "kitchen_sink:blocks/netherironore"
+  }
+}

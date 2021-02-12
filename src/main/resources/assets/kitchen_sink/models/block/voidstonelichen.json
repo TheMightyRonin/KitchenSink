@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/voidstone",
+    "up": "kitchen_sink:blocks/voidstonelichentop",
+    "north": "kitchen_sink:blocks/voidstonelichenside",
+    "east": "kitchen_sink:blocks/voidstonelichenside",
+    "south": "kitchen_sink:blocks/voidstonelichenside",
+    "west": "kitchen_sink:blocks/voidstonelichenside",
+    "particle": "kitchen_sink:blocks/voidstone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "streetlamppole",
+        "1": "candle1",
+        "2": "glass"
+      },
+      "name": "default"
+    }
+  }
+}

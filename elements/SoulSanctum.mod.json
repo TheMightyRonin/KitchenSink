@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "soulsanctum",
+    "name": "Music Disc",
+    "description": "Christopher Larkin - Soul Sanctum",
+    "creativeTab": {
+      "value": "CUSTOM:Music"
+    },
+    "music": {
+      "value": "CUSTOM:soulsanctum"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

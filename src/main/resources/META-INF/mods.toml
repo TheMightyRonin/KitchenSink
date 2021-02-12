@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="kitchen_sink"
+version="1.0.0"
+displayName="And the Kitchen Sink"
+credits="Me I guess idk"
+displayURL="https://dorifam.tk"
+authors="hnrkdbz"
+description='''
+Way Too Much is a mod that adds content to every part of the game. Pulling inspiration for loads of games such as Terraria, as well as other mods. I hope you enjoy!
+'''
+
+[[dependencies.kitchen_sink]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.kitchen_sink]]
+    modId="obfuscate"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.kitchen_sink]]
+    modId="geckolib"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

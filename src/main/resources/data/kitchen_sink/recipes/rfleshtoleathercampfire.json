@@ -1,0 +1,12 @@
+{
+  "group": "kitchen_sink",
+  "type": "minecraft:campfire_cooking",
+  "experience": 0,
+  "cookingtime": 1200,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "item": "minecraft:leather"
+  }
+}

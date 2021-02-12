@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/netherrackbase",
+    "up": "kitchen_sink:blocks/netherrackbase",
+    "north": "kitchen_sink:blocks/netherrackbase",
+    "east": "kitchen_sink:blocks/netherrackbase",
+    "south": "kitchen_sink:blocks/netherrackbase",
+    "west": "kitchen_sink:blocks/netherrackbase",
+    "particle": "kitchen_sink:blocks/netherrackbase"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/citywalltile",
+    "up": "kitchen_sink:blocks/citywalltile",
+    "north": "kitchen_sink:blocks/citywalltile",
+    "east": "kitchen_sink:blocks/citywalltile",
+    "south": "kitchen_sink:blocks/citywalltile",
+    "west": "kitchen_sink:blocks/citywalltile",
+    "particle": "kitchen_sink:blocks/citywalltile"
+  }
+}

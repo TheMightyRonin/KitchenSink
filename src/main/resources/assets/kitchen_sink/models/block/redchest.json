@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/fancychestbottom",
+    "up": "kitchen_sink:blocks/fancychesttop",
+    "north": "kitchen_sink:blocks/fancychestfront",
+    "east": "kitchen_sink:blocks/fancychestside",
+    "south": "kitchen_sink:blocks/fancychestback",
+    "west": "kitchen_sink:blocks/fancychestside",
+    "particle": "kitchen_sink:blocks/fancychestbottom"
+  }
+}

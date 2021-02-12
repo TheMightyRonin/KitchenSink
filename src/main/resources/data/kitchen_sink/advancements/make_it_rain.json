@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "kitchen_sink:rainmaker"
+    },
+    "title": {
+      "translate": "advancements.make_it_rain.title"
+    },
+    "description": {
+      "translate": "advancements.make_it_rain.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "make_it_rain": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "kitchen_sink:rainmaker"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "kitchen_sink:teneightypounds"
+}

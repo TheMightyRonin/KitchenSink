@@ -1,0 +1,7 @@
+{
+  "parent": "kitchen_sink:custom/shadowball",
+  "textures": {
+    "0": "kitchen_sink:blocks/oos1blue",
+    "particle": "kitchen_sink:items/a"
+  }
+}

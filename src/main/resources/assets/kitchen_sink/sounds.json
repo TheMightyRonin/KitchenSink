@@ -1,0 +1,22 @@
+{
+  "heal": {
+    "category": "master",
+    "subtitle": "subtitles.heal",
+    "sounds": [
+      {
+        "name": "kitchen_sink:heal",
+        "stream": false
+      }
+    ]
+  },
+  "soulsanctum": {
+    "category": "record",
+    "subtitle": "subtitles.soulsanctum",
+    "sounds": [
+      {
+        "name": "kitchen_sink:hollow_knight_ost_-_soul_sanctum",
+        "stream": true
+      }
+    ]
+  }
+}

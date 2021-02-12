@@ -1,0 +1,15 @@
+{
+  "_fv": 13,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Hover",
+    "keyBindingCategoryKey": "movement",
+    "onKeyPressed": {
+      "name": "HoverOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "HoverOnKeyReleased"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_fv": 13,
+  "_type": "biome",
+  "definition": {
+    "name": "City Grounds",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "airColor": {
+      "value": -14145238,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13742540,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -13742540,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13092017,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -13092017,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 2,
+    "seagrassPerChunk": 6,
+    "flowersPerChunk": 1,
+    "mushroomsPerChunk": 5,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.8,
+    "temperature": 0.4,
+    "baseHeight": 0.0,
+    "heightVariation": 0.0,
+    "spawnBiome": false,
+    "biomeWeight": 0,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "biomeDictionaryTypes": [],
+    "defaultFeatures": [
+      "Structures"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:CityGuard"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 15,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "kitchen_sink:custom/meleesword",
+  "textures": {
+    "0": "kitchen_sink:blocks/meleesword",
+    "particle": "kitchen_sink:items/beestinger"
+  }
+}

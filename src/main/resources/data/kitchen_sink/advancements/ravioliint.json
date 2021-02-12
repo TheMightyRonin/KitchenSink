@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "ravioliint": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "loot": [
+      "kitchen_sink:raviolilt"
+    ]
+  },
+  "parent": "kitchen_sink:teneightypounds"
+}

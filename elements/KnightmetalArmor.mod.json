@@ -1,0 +1,57 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "knighthelmet",
+    "enableBody": true,
+    "textureBody": "knightchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "knightlegs",
+    "enableBoots": true,
+    "textureBoots": "knightboots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "knightmetal",
+    "helmetName": "Knightmetal Helmet",
+    "bodyName": "Knightmetal Chestplate",
+    "leggingsName": "Knightmetal Leggings",
+    "bootsName": "Knightmetal Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 40,
+    "damageValueHelmet": 4,
+    "damageValueBody": 9,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 20,
+    "toughness": 3.5,
+    "equipSound": {
+      "value": "item.armor.equip_diamond"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:KnightmetalIngot"
+      }
+    ]
+  }
+}

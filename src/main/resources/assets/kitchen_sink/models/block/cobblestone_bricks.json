@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/cobblestonebrick",
+    "up": "kitchen_sink:blocks/cobblestonebrick",
+    "north": "kitchen_sink:blocks/cobblestonebrick",
+    "east": "kitchen_sink:blocks/cobblestonebrick",
+    "south": "kitchen_sink:blocks/cobblestonebrick",
+    "west": "kitchen_sink:blocks/cobblestonebrick",
+    "particle": "kitchen_sink:blocks/cobblestonebrick"
+  }
+}

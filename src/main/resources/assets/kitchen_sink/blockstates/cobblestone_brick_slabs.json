@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kitchen_sink:block/cobblestone_brick_slabs"
+    },
+    "type=top": {
+      "model": "kitchen_sink:block/cobblestone_brick_slabs_top"
+    },
+    "type=double": {
+      "model": "kitchen_sink:block/cobblestone_brick_slabs_full"
+    }
+  }
+}

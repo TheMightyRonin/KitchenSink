@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "planks_oak",
+        "1": "wool_colored_red",
+        "2": "log_oak"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "kitchen_sink:copper_ingot"
+    },
+    "title": {
+      "translate": "advancements.teneightypounds.title"
+    },
+    "description": {
+      "translate": "advancements.teneightypounds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "teneightypounds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "kitchen_sink:copper_ingot",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/upgrade_tools"
+}

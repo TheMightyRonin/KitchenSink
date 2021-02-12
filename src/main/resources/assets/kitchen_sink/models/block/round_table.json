@@ -1,0 +1,8 @@
+{
+  "parent": "kitchen_sink:custom/tableround",
+  "textures": {
+    "all": "kitchen_sink:blocks/planks_oak",
+    "particle": "kitchen_sink:blocks/planks_oak",
+    "0": "kitchen_sink:blocks/planks_oak"
+  }
+}

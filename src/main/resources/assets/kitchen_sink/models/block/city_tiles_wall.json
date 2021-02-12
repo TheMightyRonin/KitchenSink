@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "kitchen_sink:blocks/citytiles",
+    "particle": "kitchen_sink:blocks/citytiles"
+  }
+}

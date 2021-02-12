@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/knightmetaltech",
+    "up": "kitchen_sink:blocks/knightmetaltech",
+    "north": "kitchen_sink:blocks/knightmetaltech",
+    "east": "kitchen_sink:blocks/knightmetaltech",
+    "south": "kitchen_sink:blocks/knightmetaltech",
+    "west": "kitchen_sink:blocks/knightmetaltech",
+    "particle": "kitchen_sink:blocks/knightmetaltech"
+  }
+}

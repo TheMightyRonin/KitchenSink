@@ -1,0 +1,13 @@
+{
+  "group": "kitchen_sink",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kitchen_sink:knightmetal_block"
+    }
+  ],
+  "result": {
+    "item": "kitchen_sink:knightmetal_ingot",
+    "count": 9
+  }
+}

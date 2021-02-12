@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "kitchen_sink:blocks/citywalltile",
+    "top": "kitchen_sink:blocks/citywalltile",
+    "side": "kitchen_sink:blocks/citywalltile"
+  }
+}

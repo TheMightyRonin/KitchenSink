@@ -1,0 +1,10 @@
+{
+  "parent": "kitchen_sink:custom/rainmaker",
+  "textures": {
+    "all": "kitchen_sink:blocks/copperblock",
+    "particle": "kitchen_sink:blocks/copperblock",
+    "0": "kitchen_sink:blocks/copperblock",
+    "1": "kitchen_sink:blocks/glass",
+    "2": "kitchen_sink:blocks/weathercore"
+  }
+}

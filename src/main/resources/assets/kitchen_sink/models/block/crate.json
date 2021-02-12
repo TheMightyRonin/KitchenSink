@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kitchen_sink:blocks/crate",
+    "up": "kitchen_sink:blocks/crate",
+    "north": "kitchen_sink:blocks/crate",
+    "east": "kitchen_sink:blocks/crate",
+    "south": "kitchen_sink:blocks/crate",
+    "west": "kitchen_sink:blocks/crate",
+    "particle": "kitchen_sink:blocks/crate"
+  }
+}

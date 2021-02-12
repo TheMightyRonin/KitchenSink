@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 199,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:NetherEmeraldOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.EMERALD"
+    },
+    "name": "emeraldore_nr_2",
+    "namespace": "mod"
+  }
+}
